@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project is a Python-based web scraper that extracts detailed laptop information from Flipkart, one of India's leading e-commerce platforms. It showcases my ability to:
+In today's data-driven world, accessing and processing information efficiently is paramount. This project tackles the common challenge of **data acquisition** from dynamic websites, specifically Flipkart's laptop listings. Facing the hurdles of complex HTML structures and potential JavaScript rendering, this scraper leverages the power of Python, **Selenium** to **automate** the extraction of crucial product data. It showcases my ability to:
 
 * **Automate data collection:** Efficiently gather large datasets from dynamic websites.
 * **Handle HTML parsing:** Extract relevant information from complex web page structures.
